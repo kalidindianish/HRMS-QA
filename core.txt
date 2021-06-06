@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 core features2
+=======
+
+core features12
+
+>>>>>>> 03191ad7ad8b660ec2630b50567f8198b6a08ca5
 =======
 
 core features12
